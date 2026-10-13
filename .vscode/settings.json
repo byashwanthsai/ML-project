@@ -1,0 +1,1 @@
+{"python.defaultInterpreterPath":"${workspaceFolder}\\backend\\.venv\\Scripts\\python.exe","editor.formatOnSave":true,"files.exclude":{"**/node_modules":true,"**/.venv":true,"**/__pycache__":true},"search.exclude":{"**/node_modules":true,"**/.venv":true,"**/__pycache__":true}}

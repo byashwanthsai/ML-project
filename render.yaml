@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: sentinel-credit-fraud
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health

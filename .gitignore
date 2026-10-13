@@ -1,0 +1,14 @@
+backend/data/*.csv
+backend/models/*.joblib
+!backend/models/artifacts.joblib
+backend/models/*.db
+backend/models/*.json
+!backend/models/metrics.json
+backend/.venv/
+node_modules/
+frontend/node_modules/
+__pycache__/
+*.py[cod]
+dist/
+.pytest_cache/
+.continue/
